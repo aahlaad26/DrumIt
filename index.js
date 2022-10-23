@@ -56,7 +56,7 @@ if(key==="w"){
     activeButton.classList.add("pressed2");
     setTimeout(function() {
         activeButton.classList.remove("pressed2");
-      }, 3000);
+      }, 9000);
 
 }
 else{
